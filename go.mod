@@ -32,10 +32,7 @@ require (
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
 	github.com/whyrusleeping/cbor-gen v0.0.0-20220514204315-f29c37e9c44c // indirect
 	go.opentelemetry.io/otel v1.10.0 // indirect
-	golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/exp v0.0.0-20220921164117-439092de6870 // indirect
-	golang.org/x/net v0.0.0-20220921203646-d300de134e69 // indirect
-	golang.org/x/sync v0.0.0-20220907140024-f12130a52804 // indirect
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 )
