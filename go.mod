@@ -25,7 +25,7 @@ require (
 	github.com/ipld/go-car v0.5.0
 	github.com/ipld/go-car/v2 v2.5.0 // indirect
 	github.com/ipld/go-codec-dagpb v1.5.0
-	github.com/ipld/go-ipld-prime v0.18.0
+	github.com/ipld/go-ipld-prime v0.19.0
 	github.com/libp2p/go-libp2p v0.23.1 // indirect
 	github.com/libp2p/go-libp2p-core v0.20.1
 	github.com/multiformats/go-multiaddr v0.7.0
